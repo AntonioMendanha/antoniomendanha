@@ -1,6 +1,5 @@
 ### Antonio Mendanha 👋
 
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/AntonioMendanha?style=for-the-badge">
 
 Iniciei meus estudos em programação no final do segundo semestre de 2019 como um Hobby e em 2020 resolvi me aprofundar mais :computer:
 
