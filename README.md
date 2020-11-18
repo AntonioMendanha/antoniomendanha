@@ -2,7 +2,7 @@
 I´ve always dream about coding and 2019 was my first step. I started with the basics and then a little about Phyton.<br>
 A few monhts later I knew Rocktseat :rocket:, excellent videos on Youtube and some workshops teaching Javascript, React, NodeJs, Typescript and more. <br>
 
-###### 🔭 I’m currently working on
+###### 🔭 I’m currently working at
 * Indicator and Digital Innovation Manager at Prime Residencial (Brazil - Belem-PA)
 * Managment Consultant at Pizza Hut (Brazil - Belem-PA)
 ###### 🌱 I’m currently learning
