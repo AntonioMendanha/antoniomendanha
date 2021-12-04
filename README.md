@@ -12,12 +12,17 @@
     <img align="center" height="30" width="40" alt="Antonio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="Antonio-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="Antonio-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="Antonio-BootStrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+    <img align="center" height="30" width="40" alt="Antonio-AngularJS" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
     <img align="center" height="30" width="40" alt="Antonio-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="Antonio-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" height="30" width="40" alt="Antonio-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  </div>
 
  <div>
     <h2> 🔭 I’m currently working on </h2>
+   <h4> Web Full Stack Student     <img height="50" alt="SantanderCoders" src="https://letscode.com.br/images/Processes/SantanderCoders.svg"></h4>
+    <p> Studying by a schollarship provided by Santander Universidades. During 11 months I´ll learn Angular and JAVA, and of course more about HTML, CSS and Javascript.
     <h4>* Indicator and Digital Innovation Manager at Prime Residencial (Brazil - Belem-PA) </h4>
     <p> I'm not a Data Scientist but I like to analyse some data and here thats what I do here. Daily I use Google Platform to interact with my data.</p>
     <div style="display: inline_block"><br> 
@@ -34,8 +39,10 @@
    <ul>
      <li>Javascript</li>
      <li>Typescript</li>
+     <li>Angular</li>
      <li>React</li>
      <li>NodeJS</li>
+     <li>Java</li>
    </ul>
  </div>
  
@@ -54,13 +61,3 @@
    </ul>
  </div>
 </div>
-<!--
-**AntonioMendanha/antoniomendanha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
