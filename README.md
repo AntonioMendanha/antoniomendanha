@@ -9,9 +9,6 @@
 <div>
 <!-- Linguaguens-->   <h2> I'm currently studying </h2>
  <div style="display: inline_block"><br> 
-    <img align="center" height="30" width="40" alt="Antonio-HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="Antonio-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="Antonio-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="Antonio-BootStrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" height="30" width="40" alt="Antonio-AngularJS" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
     <img align="center" height="30" width="40" alt="Antonio-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -37,12 +34,29 @@
  
    <h2> 🌱 I’m currently learning </h2>
    <ul>
-     <li>Javascript</li>
-     <li>Typescript</li>
-     <li>Angular</li>
-     <li>React</li>
-     <li>NodeJS</li>
-     <li>Java</li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        - Javascript
+     </li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        - Typescript
+     </li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-AngularJS" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+        - Angular
+     </li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        - React
+     </li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+        - NodeJS</li>
+     <li>
+       <img align="center" height="30" width="40" alt="Antonio-Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+        - Java
+     </li>
    </ul>
  </div>
  
